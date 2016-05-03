@@ -71,7 +71,7 @@ function preload() {
     game.load.spritesheet('alarm', 'assets/Alarm.png', 32, 32);
     game.load.image('c', 'assets/c.png');
     game.load.spritesheet('goal', 'assets/Safe.png', 32, 32);
-    game.load.image('key', 'assets/key.png');
+    game.load.image('key', 'assets/Key.png');
     game.load.audio("alarm", 'assets/Warning.mp3');
     game.load.audio("music", 'assets/Music.mp3');
     game.load.audio("yay", 'assets/yay.mp3');
